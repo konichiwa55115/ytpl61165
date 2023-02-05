@@ -1,5 +1,5 @@
 echo "Cloning Repo...."
-git clone https://github.com/konichiwa55115/ytdl51155115sdasd /LazyDeveloper
+git clone https://github.com/konichiwa55115/ytpl61165 /LazyDeveloper
 cd /LazyDeveloper
 pip3 install -r requirements.txt
 echo "Starting Bot...."
